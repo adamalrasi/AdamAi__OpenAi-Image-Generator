@@ -72,8 +72,22 @@ const Home = () => {
     console.log("hello");
   };
 
+  // const handleKeyDown = (event) => {
+  //   if (event.keyCode === 13) {
+  //     console.log("Enter key pressed");
+  //   }
+  // };
+
   return (
-    <section className="max-w-7xl mx-auto">
+    <section
+      className="max-w-7xl mx-auto"
+      onKeyPress={(event) => {
+        if (event.key === "Enter") {
+          event.preventDefault();
+          generateImage();
+        }
+      }}
+    >
       <div>
         <h1 className="font-extrabold text-[#222328] text-[32px]">
           Create imaginative images of me, AdamAi 😅
@@ -135,7 +149,7 @@ const Home = () => {
             )}
           </div>
         </div>
-
+        {/* <input type="text" onKeyDown={this.handleKeyDown} /> */}
         <div className="mt-5 flex gap-5">
           <button
             type="button"
