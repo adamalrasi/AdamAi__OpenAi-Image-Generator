@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { Loader, Card, FormField } from "../components";
 import { useNavigate } from "react-router-dom";
 
-import { preview, pixel } from "../assets";
+import { preview, pixel, newLogo } from "../assets";
 // import { pixel } from "../assets";
 import { getRandomPrompt } from "../utils";
 
