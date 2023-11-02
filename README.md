@@ -6,10 +6,10 @@ Generate images of my pixel doing whatever you like. Whether it's fighting off z
 
 ## Features
 Prompt: "riding a motorbike"<br>
-![dragon-adamai - Made with Clipchamp (1)](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/a639651f-e8c9-4ab9-a01b-ed3a1a795b51)
+![motorbike-adamai - Made with Clipchamp](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/33e9fdcd-7ef8-41d2-a24a-1e35e9b32ec4)
 
 Prompt: "riding a dragon"<br>
-![dragon-adamai - Made with Clipchamp](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/c212360c-1f98-453b-89dd-ccc3f6a303cb)
+![dragon-adamai - Made with Clipchamp (1)](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/a639651f-e8c9-4ab9-a01b-ed3a1a795b51)
 
 
 
