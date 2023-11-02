@@ -5,6 +5,8 @@
 Generate images of my pixel doing whatever you like. Whether it's fighting off zombies😱 or riding a dragon🐉, the choice is yours🙌. The application is connected to the OpenAi Dall E API.
 
 ## Features
+Prompt: "riding a motorbike"<br>
+![motorbike-adamai - Made with Clipchamp](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/8432f837-0b2f-4429-9151-1f2f87188133)
 
 
 
