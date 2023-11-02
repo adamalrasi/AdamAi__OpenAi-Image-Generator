@@ -22,7 +22,9 @@ const startServer = async () => {
   try {
     connectDB(process.env.MONGODB_URL);
     app.listen(5000, () =>
-      console.log("✅ Server is running on port http://localhost:5000")
+      console.log(
+        "✅ Server is running on port https://adamai-image-generation.onrender.com"
+      )
     );
   } catch (error) {
     console.log(error);
