@@ -16,7 +16,7 @@ Prompt: "riding a dragon"<br>
 
 ## How to Interact with Me
 Just drop in a prompt, anything you would like, such as riding a motorbike😎 <br>
-![image](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/8e2b44dc-bf48-48b3-a7c7-2b192e5780e5) <br>
+![image](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/85852130-e70a-4f4d-898f-3304b55a1cf2) <br>
 Once you have decided and inputted the prompt, click the generate button and wait...👌 <br>
 ![image](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/12b22cd7-5043-4be2-96ef-92a5c2a4f390)
 
