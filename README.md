@@ -1,5 +1,5 @@
 ## AdamAi🤖__OpenAi-Image-Generation
-![Adamai-image-github (1)](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/57686874-1931-46e7-ab53-f57b423df784)
+![Adamai-image-github](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/381c87e5-0722-4fb5-87e9-c8dde5e363e3)
 
 ## About Me
 Generate images of my pixel doing whatever you like. Whether it's fighting off zombies😱 or riding a dragon🐉, the choice is yours🙌. The application is connected to the OpenAi Dall E API.
