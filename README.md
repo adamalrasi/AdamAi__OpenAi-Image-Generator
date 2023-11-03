@@ -6,10 +6,10 @@ Website link: [adamaiimage.adamalrasi.com](https://adamaiimage.adamalrasi.com/) 
 Generate images of my pixel doing whatever you like. Whether it's fighting off zombies😱 or riding a dragon🐉, the choice is yours🙌. The application is connected to the OpenAi Dall E API.
 
 ## Features
-Prompt: "riding a motorbike"<br>
+Prompt: "Riding a motorbike"<br>
 ![motorbike-adamai - Made with Clipchamp](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/c7e795c6-6f79-4197-81ca-12e11da4d031)
 
-Prompt: "riding a dragon"<br>
+Prompt: "Riding a dragon"<br>
 ![dragon-adamai - Made with Clipchamp (1)](https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator/assets/147779056/0b038b01-33e1-4052-a2da-de77eac19de7)
 
 
