@@ -16,9 +16,9 @@ const App = () => {
           rounded-md"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://www.linkedin.com/in/adamalrasi/"
+          href="https://github.com/adamalrasi/AdamAi__OpenAi-Image-Generator"
         >
-          Linkedin/adamalrasi
+          Github/adamalrasi
         </a>
       </header>
       <main className="sm:p-8 px-4 py-8 w-full bg-[#f9fafe] min-h-[calc(100vh-73px)]">
