@@ -106,6 +106,7 @@ const Home = () => {
           style={{ height: 100 }}
         />
       </div>
+
       <form className="mt-10 max-w-3xl" onSubmit={handleSubmit}>
         <div className="flex flex-col gap-5">
           {/* <FormField
@@ -116,6 +117,7 @@ const Home = () => {
             value={form.name}
             handleChange={handleChange}
           /> */}
+
           <FormField
             labelName="Prompt"
             type="text"
