@@ -25,8 +25,8 @@ const FormField = ({
       )}
     </div>
     <p className="mt-2 mb-5 text-[#666e75] text-[14px] max-w [500px]">
-      The OpenAI Image generator might take a 1-3 minutes to generate the image.
-      Please be patient.🙌
+      The OpenAI Image generator might take 1 to 3 minutes to generate the
+      image. Please be patient.🙌
     </p>
     <input
       type={type}
