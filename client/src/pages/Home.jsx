@@ -32,7 +32,7 @@ const Home = () => {
       try {
         setGeneratingImg(true);
         const response = await fetch(
-          "https://adamai-image-generation.onrender.com/api/v1/dalle",
+          "https://adamai-image.onrender.com/api/v1/dalle",
           {
             method: "POST",
             headers: {
